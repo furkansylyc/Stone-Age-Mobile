@@ -1,3 +1,5 @@
 # Auto detect text files and perform LF normalization
 * text=auto
-*.csharp linguist detected=true
+
+# Additional attributes for specific files
+*.csharp linguist-language=C#
